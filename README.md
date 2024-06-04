@@ -37,7 +37,7 @@ To set up the tool for your project, follow these steps:
    - Click on `File` > `New Model` to create a new threat model.
 
 3. **Use the Provided Template:**
-   - Download and save the provided template file (`YourTemplateName.tms`). Ensure it is stored in a location you can easily access.
+   - Download and save the provided template file. Ensure it is stored in a location you can easily access.
    - In the Threat Modeling Tool, click on `File` > `Open Template`.
    - Navigate to the location where you saved the template and open it.
 
